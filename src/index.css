@@ -671,7 +671,7 @@ button {
   width: 100%;
 }
 .profileNameActive {
-  background-color: rgba(44, 44, 44, 0.1);
+  background-color: rgba(123, 255, 0, 0.1);
 }
 
 .profileEmail,
